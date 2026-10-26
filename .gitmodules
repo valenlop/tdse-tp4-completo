@@ -1,0 +1,12 @@
+[submodule "tdse-tp4_01-adc"]
+	path = tdse-tp4_01-adc
+	url = https://github.com/valenlop/tdse-tp4_01-adc.git
+[submodule "tdse-tp4_02-pwm"]
+	path = tdse-tp4_02-pwm
+	url = https://github.com/valenlop/tdse-tp4_02-pwm.git
+[submodule "tdse-tp4_03-adc_pwm"]
+	path = tdse-tp4_03-adc_pwm
+	url = https://github.com/valenlop/tdse-tp4_03-adc_pwm.git
+[submodule "tdse-tp4_04-led_ldr"]
+	path = tdse-tp4_04-led_ldr
+	url = https://github.com/valenlop/tdse-tp4_04-led_ldr.git
